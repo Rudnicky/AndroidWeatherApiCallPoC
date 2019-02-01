@@ -1,4 +1,4 @@
-package com.example.androidweatherapicallpoc;
+package com.example.androidweatherapicallpoc.models;
 
 import java.io.Serializable;
 

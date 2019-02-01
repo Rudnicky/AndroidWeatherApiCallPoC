@@ -1,4 +1,4 @@
-package com.example.androidweatherapicallpoc;
+package com.example.androidweatherapicallpoc.models;
 
 public class Weather {
     public Location location;

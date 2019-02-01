@@ -1,4 +1,7 @@
-package com.example.androidweatherapicallpoc;
+package com.example.androidweatherapicallpoc.webservices;
+
+import com.example.androidweatherapicallpoc.models.Location;
+import com.example.androidweatherapicallpoc.models.Weather;
 
 import org.json.JSONArray;
 import org.json.JSONException;
